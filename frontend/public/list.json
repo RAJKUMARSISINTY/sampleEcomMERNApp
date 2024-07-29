@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Belgium cake",
+    "title": "this is some title",
+    "price": 345,
+    "category": "Cake",
+    "image": "https://img.freepik.com/free-photo/fruit-cake-with-chocolate-chips-blueberries_176474-2965.jpg?t=st=1721817458~exp=1721821058~hmac=b71b823462e7f9a6451ffc5834fd7233d624b486e4f4a64ce1056867c9c11f51&w=1480"
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Pastry",
+    "title": "this is some title",
+    "price": 85,
+    "category": "Pastry",
+    "image": "https://img.freepik.com/free-photo/fruit-cake-with-chocolate-chips-blueberries_176474-2965.jpg?t=st=1721817458~exp=1721821058~hmac=b71b823462e7f9a6451ffc5834fd7233d624b486e4f4a64ce1056867c9c11f51&w=1480"
+  },
+  {
+    "id": 3,
+    "name": "Cookies",
+    "title": "this is some title",
+    "price": 25,
+    "category": "Cookies",
+    "image": "https://img.freepik.com/free-photo/fruit-cake-with-chocolate-chips-blueberries_176474-2965.jpg?t=st=1721817458~exp=1721821058~hmac=b71b823462e7f9a6451ffc5834fd7233d624b486e4f4a64ce1056867c9c11f51&w=1480"
+  },
+  {
+    "id": 4,
+    "name": "Butter Cupcakes",
+    "title": "this is some title",
+    "price": 30,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/fruit-cake-with-chocolate-chips-blueberries_176474-2965.jpg?t=st=1721817458~exp=1721821058~hmac=b71b823462e7f9a6451ffc5834fd7233d624b486e4f4a64ce1056867c9c11f51&w=1480"
+  },
+  {
+    "id": 5,
+    "name": "Brownie",
+    "title": "this is some title",
+    "price": 45,
+    "category": "Brownie",
+    "image": "https://img.freepik.com/free-photo/fruit-cake-with-chocolate-chips-blueberries_176474-2965.jpg?t=st=1721817458~exp=1721821058~hmac=b71b823462e7f9a6451ffc5834fd7233d624b486e4f4a64ce1056867c9c11f51&w=1480"
+  },
+  {
+    "id": 6,
+    "name": "Chicken Puff",
+    "title": "this is some title",
+    "price": 80,
+    "category": "Puff",
+    "image": "https://img.freepik.com/free-photo/fruit-cake-with-chocolate-chips-blueberries_176474-2965.jpg?t=st=1721817458~exp=1721821058~hmac=b71b823462e7f9a6451ffc5834fd7233d624b486e4f4a64ce1056867c9c11f51&w=1480"
+  },
+  {
+    "id": 7,
+    "name": "Give Away 1",
+    "title": "this is some title",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/fruit-cake-with-chocolate-chips-blueberries_176474-2965.jpg?t=st=1721817458~exp=1721821058~hmac=b71b823462e7f9a6451ffc5834fd7233d624b486e4f4a64ce1056867c9c11f51&w=1480"
+  },
+  {
+    "id": 8,
+    "name": "Give Away 2",
+    "title": "this is some title",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/fruit-cake-with-chocolate-chips-blueberries_176474-2965.jpg?t=st=1721817458~exp=1721821058~hmac=b71b823462e7f9a6451ffc5834fd7233d624b486e4f4a64ce1056867c9c11f51&w=1480"
+  }
+]
